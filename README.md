@@ -8,7 +8,7 @@
 - Step 5: (Stretch goal) Create a Weather Bot
 
 # Step 0: Sign up for IBM Cloud
-- [IBM Cloud Sign Up](http://bit.ly/ibm-cloud-summit-2019) - http://bit.ly/ibm-cloud-summit-2019
+- [IBM Cloud Sign Up](http://ibm.biz/hacker-dojo-serverless) - http://ibm.biz/hacker-dojo-serverless
 
 **Q: I'm having issues signing up for IBM Cloud during the workshop.**
 
@@ -16,7 +16,7 @@
 
 **Q: What if I already have an IBM Cloud account?**
 
-**A:** Visit http://bit.ly/ibm-cloud-summit-2019 and log in to your account.
+**A:** Visit http://ibm.biz/hacker-dojo-serverless and log in to your account.
 
 # Step 1: Configure your IBM Cloud local environment
 
